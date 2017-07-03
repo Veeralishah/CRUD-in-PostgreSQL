@@ -1,10 +1,6 @@
 # CRUD-in-PostgreSQL
 Dynamic CRUD operation in PostgreSQL Database using Python Script 
 
-# Project Title
-
-CRUD Opeartions Working Dynamically in PostgreSQL Database using Python Script.
-
 ## Getting Started
 
 First, You Can run Main file, Thne User Input for What Operation do like Create table, Update Record, Delete Record & Show Table Data.
@@ -17,7 +13,7 @@ For this, In Your Machine You have install MYSQL & Python.
 ### Installing
 
 if You can use Windows,
-You have to install Python & Mysql both.
+You have to install Python & PostgreSQL both.
 
 http://www.postgresqltutorial.com/install-postgresql/
 
